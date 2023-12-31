@@ -1,0 +1,15 @@
+D:\shweta\WPF_1\bin\Debug\WPF_1.exe.config
+D:\shweta\WPF_1\bin\Debug\WPF_1.exe
+D:\shweta\WPF_1\bin\Debug\WPF_1.pdb
+D:\shweta\WPF_1\obj\Debug\WPF_1.csproj.AssemblyReference.cache
+D:\shweta\WPF_1\obj\Debug\MainWindow.g.cs
+D:\shweta\WPF_1\obj\Debug\App.g.cs
+D:\shweta\WPF_1\obj\Debug\WPF_1_MarkupCompile.cache
+D:\shweta\WPF_1\obj\Debug\WPF_1_MarkupCompile.lref
+D:\shweta\WPF_1\obj\Debug\MainWindow.baml
+D:\shweta\WPF_1\obj\Debug\WPF_1.g.resources
+D:\shweta\WPF_1\obj\Debug\WPF_1.Properties.Resources.resources
+D:\shweta\WPF_1\obj\Debug\WPF_1.csproj.GenerateResource.cache
+D:\shweta\WPF_1\obj\Debug\WPF_1.csproj.CoreCompileInputs.cache
+D:\shweta\WPF_1\obj\Debug\WPF_1.exe
+D:\shweta\WPF_1\obj\Debug\WPF_1.pdb
