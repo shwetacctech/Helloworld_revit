@@ -1,0 +1,6 @@
+D:\shweta\HelloWorld\bin\Debug\HelloWorld.dll
+D:\shweta\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\shweta\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\shweta\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\shweta\HelloWorld\obj\Debug\HelloWorld.dll
+D:\shweta\HelloWorld\obj\Debug\HelloWorld.pdb

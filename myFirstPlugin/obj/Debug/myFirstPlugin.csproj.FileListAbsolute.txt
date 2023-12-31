@@ -1,0 +1,7 @@
+D:\shweta\myFirstPlugin\obj\Debug\myFirstPlugin.csproj.AssemblyReference.cache
+D:\shweta\myFirstPlugin\obj\Debug\myFirstPlugin.g.resources
+D:\shweta\myFirstPlugin\obj\Debug\myFirstPlugin.csproj.CoreCompileInputs.cache
+D:\shweta\myFirstPlugin\bin\Debug\myFirstPlugin.dll
+D:\shweta\myFirstPlugin\bin\Debug\myFirstPlugin.pdb
+D:\shweta\myFirstPlugin\obj\Debug\myFirstPlugin.dll
+D:\shweta\myFirstPlugin\obj\Debug\myFirstPlugin.pdb

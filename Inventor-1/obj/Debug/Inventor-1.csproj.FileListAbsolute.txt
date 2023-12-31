@@ -1,0 +1,10 @@
+C:\Users\Shweta Raut\AppData\Roaming\Autodesk\Inventor 2024\Addins\MyAddin\Autodesk.Inventor-1.Inventor.addin
+C:\Users\Shweta Raut\AppData\Roaming\Autodesk\Inventor 2024\Addins\MyAddin\Inventor-1.dll
+C:\Users\Shweta Raut\AppData\Roaming\Autodesk\Inventor 2024\Addins\MyAddin\Inventor-1.pdb
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.csproj.AssemblyReference.cache
+D:\shweta\Inventor-1\obj\Debug\InvAddIn.Properties.Resources.resources
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.csproj.GenerateResource.cache
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.csproj.CoreCompileInputs.cache
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.csproj.CopyComplete
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.dll
+D:\shweta\Inventor-1\obj\Debug\Inventor-1.pdb
