@@ -4,7 +4,8 @@ The ElementIdReader Revit plugin is a simple external command that retrieves and
 # Overview
 The plugin consists of a single external command class:
 
-# Command Class (Command): Implements the IExternalCommand interface and serves as the main external command. It retrieves the Element IDs of selected elements in the active document and displays the information in a TaskDialog.
+# Command Class (Command):
+Implements the IExternalCommand interface and serves as the main external command. It retrieves the Element IDs of selected elements in the active document and displays the information in a TaskDialog.
 + Usage
 + Installation:
 
