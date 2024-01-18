@@ -1,2 +1,0 @@
-D:\shweta\Revit_!\obj\Debug\Revit_!.csproj.AssemblyReference.cache
-D:\shweta\Revit_!\obj\Debug\Revit_!.csproj.CoreCompileInputs.cache
