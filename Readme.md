@@ -4,7 +4,7 @@ This repository contains two projects: AddButton and AddPanel, showcasing a Revi
 # Getting Started
 Clone the repository:
 
-https://github.com/RamCCTech/RevitAPI.git
+https://github.com/shwetacctech/Helloworld_revit.git
 + Open the solution file of the desired project in Visual Studio.
 
 + Build the solution.
